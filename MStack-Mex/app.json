@@ -1,0 +1,52 @@
+{
+  "id": "6d56f94b-d9e1-4095-8448-82859d84dba5",
+  "name": "MStack-Mex",
+  "publisher": "Pristine Business Solution Mex",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+
+    {
+      "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "name": "Base Application",
+      "version": "28.1.49838.50874",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "a7bd3b4e-5469-4185-88b5-06745dd4c153",
+      "name": "Excise Taxes",
+      "version": "28.1.49838.50065",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "e1d97edc-c239-46b4-8d84-6368bdf67c8b",
+      "name": "E-Document Core",
+      "version": "28.0.46665.49824",
+      "publisher": "Microsoft"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "28.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 60000
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "17.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
