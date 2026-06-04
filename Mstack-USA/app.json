@@ -1,0 +1,65 @@
+{
+  "id": "412b2d1a-ac05-48b8-b47d-b0d63cb0f2fd",
+  "name": "Mstack-USA",
+  "publisher": "Pristine Business Solution USA",
+  "version": "1.0.0.8",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    
+    {
+      "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "name": "Base Application",
+      "version": "28.0.46665.50632",
+      "publisher": "Microsoft"
+    },
+    
+    {
+      "id": "b696b4c9-637c-49d1-a806-763ff8f0a20e",
+      "name": "IRS Forms",
+      "version": "28.0.46665.48257",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "c31ee575-3fc7-4388-98ee-d75aa2fc5f87",
+      "name": "Withholding Tax",
+      "version": "28.0.46665.48632",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "adc18994-073b-4840-a144-2a5e3a0d9d1e",
+      "name": "DIOT - Localization for Mexico",
+      "version": "28.0.46665.48257",
+      "publisher": "Microsoft"
+    },
+    {
+      "id": "a7bd3b4e-5469-4185-88b5-06745dd4c153",
+      "name": "Excise Taxes",
+      "version": "28.0.46665.48257",
+      "publisher": "Microsoft"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "28.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 60000
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "17.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
